@@ -11,7 +11,7 @@ const routes = {
 };
 
 const labels = {
-	selectedCounterPattern: /נבחרו\s+\d+\s+פריטים/, // e.g., "נבחרו 0 פריטים"
+	selectedCounterPattern: /נבחרו\s+\d+\s+פריטים/,
 	continueButton: 'המשך',
 	continueButtonPayment: 'המשך לשלב הבא וביצוע תשלום מאובטח',
 	totalTitle: 'סה״כ לתשלום'
